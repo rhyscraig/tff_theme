@@ -1,16 +1,16 @@
 {
-    "name": "ruby",
+    "name": "ttf_theme_ruby",
     "description": "A Ghost theme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "ghost": ">=4.0.0",
         "ghost-api": "v4"
     },
     "license": "MIT",
         "author": {
-            "name": "Ghost Foundation",
-            "email": "hello@ghost.org",
-            "url": "https://ghost.org"
+            "name": "rhyscraig",
+            "email": "thefearfanatic@gmail.com",
+            "url": "https://thefearfanatic.com"
         },
     "keywords": [
         "ghost",

@@ -1,14 +1,14 @@
-# Ruby
+# ttf_theme
 
 A multi-column theme with a unique card layout. Share your posts with contemporary style. Completely free and fully responsive, released under the MIT license.
 
-**Demo: https://ruby.ghost.io**
+**Demo: https://github.com/rhyscraig/tff_theme/**
 
 &nbsp;
 
 # Instructions
 
-1. [Download this theme](https://github.com/TryGhost/Ruby/archive/main.zip)
+1. [Download this theme](https://github.com/rhyscraig/tff_theme/archive/main.zip)
 2. Log into Ghost, and go to the `Design` settings area to upload the zip file
 
 # Development
