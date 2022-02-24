@@ -23,15 +23,15 @@
                                 {{#if @custom.show_share_links}}
                                     {{> share}}
                                 {{/if}}
+                                {{#if @custom.show_comments}}
+                                    {{> comment}}
+                                {{/if}}
                             </div>
                         </article>
                         {{#if @custom.show_author}}
                             {{> author}}
                         {{/if}}
                         {{> post-navigation}}
-                        {{#if @custom.show_comments}}
-                            {{> comment}}
-                        {{/if}}
                     {{/post}}
                 </main>
             </div>
