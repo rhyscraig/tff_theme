@@ -75,11 +75,6 @@
                 "type": "boolean",
                 "default": true,
                 "group": "post"
-            },
-            "show_comments": {
-                "type": "boolean",
-                "default": false,
-                "group": "post"
             }
         }
     },
