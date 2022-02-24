@@ -18,7 +18,7 @@
         "ghost-theme"
     ],
     "config": {
-        "posts_per_page": 9,
+        "posts_per_page": 12,
         "image_sizes": {
             "xs": {
                 "width": 150
@@ -72,6 +72,11 @@
                 "group": "post"
             },
             "show_author": {
+                "type": "boolean",
+                "default": true,
+                "group": "post"
+            },
+            "show_comments": {
                 "type": "boolean",
                 "default": true,
                 "group": "post"
