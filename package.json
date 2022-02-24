@@ -78,7 +78,7 @@
             },
             "show_comments": {
                 "type": "boolean",
-                "default": true,
+                "default": false,
                 "group": "post"
             }
         }
